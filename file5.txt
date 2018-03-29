@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 file 5 with version 2
+=======
+version6
+
+>>>>>>> 5c13b6d94b0dc69b7833ef993cf7eb556c35d26a
